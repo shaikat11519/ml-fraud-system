@@ -1,4 +1,2 @@
-import numpy as np
-import pandas as pd
-
-print("ML environment is working!")
+# Unit tests for the fraud detection pipeline.
+# Add test functions here as the project grows.
